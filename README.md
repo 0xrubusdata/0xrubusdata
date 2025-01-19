@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**0xrubusdata/0xrubusdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
 
-Here are some ideas to get you started:
+- 🤖 I’m currently working on **XXXX**, an AI agent built on the ELIZA framework and enhanced with a custom OpenAI plugin.  
+- 🌱 I’m exploring the intersection of AI development and real-time proof-of-concept experiments.  
+- 💬 Ask me about AI, machine learning, or the tech behind ELIZA and OpenAI plugins.  
+- 📫 Connect with me on [X (Twitter)](https://x.com/Data0x88850).  
+- 😄 Fun fact: My current AI project is not just a tool—it's a story in progress, shared live!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Thanks for stopping by! Feel free to explore my repositories or reach out if you're interested in collaboration 🚀.
